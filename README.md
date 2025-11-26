@@ -1,1 +1,2 @@
 # uber-booking-project
+A dynamic, insight-driven Power BI dashboard that transforms raw Uber trip data into clear, actionable intelligence. This project showcases end-to-end data modeling, interactive visual analytics, and performance-focused design to reveal ride patterns, peak demand hours, customer behavior, and operational efficiency metrics—enabling data-backed decision-making with clarity and precision.
